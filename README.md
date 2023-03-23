@@ -1,1 +1,5 @@
-# docker-dotnet
+# Docker .NET 
+
+## License
+
+[MIT](./LICENSE)
