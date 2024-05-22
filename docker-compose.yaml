@@ -9,3 +9,7 @@ services:
   7-alpine:
     image: 'tmvdl/dotnet:7-alpine'
     build: './src/7-alpine'
+
+  8-jammy:
+    image: 'tmvdl/dotnet:8-jammy'
+    build: './src/8-jammy'
