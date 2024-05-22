@@ -6,9 +6,9 @@ services:
     image: 'tmvdl/dotnet'
     build: './src/latest'
 
-  7-alpine:
-    image: 'tmvdl/dotnet:7-alpine'
-    build: './src/7-alpine'
+  8-alpine:
+    image: 'tmvdl/dotnet:8-alpine'
+    build: './src/8-alpine'
 
   8-jammy:
     image: 'tmvdl/dotnet:8-jammy'
